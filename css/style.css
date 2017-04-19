@@ -4,14 +4,17 @@
     background: linear-gradient(to bottom,#fff,#f00);
 }
 #main{
+    float: left;
     height: 500px;
     background-color: #3f0;
 }
 #sub{
+    float: right;
     height: 500px;
     background-color: #e7f;
 }
 #footer{
+    clear: both;
     height: 500px;
     background-color: #037;
 }
