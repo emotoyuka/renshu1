@@ -1,6 +1,7 @@
 #header{
     height: 200px;
-    background-color: #00f;
+    background: -webkit-linear-gradient(top,#fff,#f00);
+    background: linear-gradient(to bottom,#fff,#f00);
 }
 #main{
     height: 500px;
